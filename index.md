@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title]([http://example.com/](https://public.tableau.com/app/profile/josep.orenga.pach.s2531/viz/EstamosreduciendolaemisindeCO2/Dashboard3?publish=yes))
+- [Project 1 Title](https://public.tableau.com/app/profile/josep.orenga.pach.s2531/viz/EstamosreduciendolaemisindeCO2/Dashboard3?publish=yes)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
